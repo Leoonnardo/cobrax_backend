@@ -1,0 +1,6 @@
+rest\CitasApplication.class
+rest\Modelo\Cita.class
+rest\Controlador\CitaController.class
+rest\Repositorio\CitaRepository.class
+rest\Modelo\Mascota.class
+rest\Modelo\CitaMascota.class
